@@ -10,7 +10,8 @@ Lâmpada Matriz é um sistema embarcado interativo que detecta comandos sonoros 
 - ✅ Ajuste de brilho dos LED's (no código)
 - ✅ Consumo de energia adaptável, de acordo com a regulagem do brilho
 
-## 🛠️ Hardware Utilizado
+## 🛠️ Tecnologia e Hardware Utilizado
+- 👨🏻‍💻 **Linguagem de programação** (C)
 - 🔹 **Placa BitDogLab** (RP2040)
 - 🎤 **Microfone de eletreto (ADC)**
 - 💡 **Matriz de LED's Neopixel (25 LED's)**
