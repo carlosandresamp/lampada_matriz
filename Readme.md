@@ -52,10 +52,29 @@ cp lampada_matriz.uf2 /media/$USER/RPI-RP2/
 ```
 
 ## 📸 Demonstração
-✨ **Aguardando imagens ou vídeos do projeto em ação!**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72224289-76b4-4d74-b8e5-dab209cdf418" width="400">
+  <img src="https://github.com/user-attachments/assets/b4bade36-2d2c-4cd6-80f8-3cd9ef5af536" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f83a0bda-2b22-47ec-a485-913bf607b154" width="400">
+  <img src="https://github.com/user-attachments/assets/a2fbb88b-3d58-4528-8448-bab3c09943a8" width="400">
+</p>
+
+🎥 **Assista ao vídeo do projeto:**  
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/f6f5e616-447e-4458-b3b7-d278274e294c">
+    <img src="https://github.com/user-attachments/assets/f83a0bda-2b22-47ec-a485-913bf607b154" width="500">
+  </a>
+</p>
+
 
 ## 🧑‍💻 Desenvolvimento
 👤 **Carlos André** - Desenvolvedor principal
 
 🚀 _Desenvolvido no contexto do programa EmbarcaTech._
+
+
 
