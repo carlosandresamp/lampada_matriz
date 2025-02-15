@@ -4,11 +4,11 @@
 Lâmpada Matriz é um sistema embarcado interativo que detecta comandos sonoros e acende uma matriz de LED's com base na intensidade do som. O projeto foi desenvolvido como parte do programa **EmbarcaTech**, um programa de capacitação profissional técnica destinado a alunos de nível superior em **Tecnologias da Informação e Comunicação (TIC)** e áreas correlatas, com foco em **Sistemas Embarcados**.
 
 ## 🎯 Funcionalidades
-✅ Detecta sons altos e os converte em comandos
-✅ Acende e apaga a matriz de LED's conforme a detecção de som
-✅ Exibe a contagem de comandos no display OLED SSD1306
-✅ Ajuste de brilho dos LED's (no código)
-✅ Consumo de energia adaptável, de acordo com a regulagem do brilho
+- ✅ Detecta sons altos e os converte em comandos
+- ✅ Acende e apaga a matriz de LED's conforme a detecção de som
+- ✅ Exibe a contagem de comandos no display OLED SSD1306
+- ✅ Ajuste de brilho dos LED's (no código)
+- ✅ Consumo de energia adaptável, de acordo com a regulagem do brilho
 
 ## 🛠️ Hardware Utilizado
 - 🔹 **Placa BitDogLab** (RP2040)
