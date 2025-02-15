@@ -51,7 +51,10 @@ Conecte o **RP2040** no modo **BOOTSEL** e envie o arquivo `.uf2`:
 cp lampada_matriz.uf2 /media/$USER/RPI-RP2/
 ```
 
-## 📸 Demonstração
+## Demonstração
+
+📸 **Imagens:**
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72224289-76b4-4d74-b8e5-dab209cdf418" width="400">
   <img src="https://github.com/user-attachments/assets/b4bade36-2d2c-4cd6-80f8-3cd9ef5af536" width="400">
@@ -65,8 +68,8 @@ cp lampada_matriz.uf2 /media/$USER/RPI-RP2/
 🎥 **Assista ao vídeo do projeto:**  
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/f6f5e616-447e-4458-b3b7-d278274e294c">
-    <img src="https://github.com/user-attachments/assets/f83a0bda-2b22-47ec-a485-913bf607b154" width="500">
+  <a href="https://github.com/user-attachments/assets/d2b807c9-f5d5-4ccd-8d81-d8d6a6365b2a">
+    <img src="https://github.com/user-attachments/assets/04292657-01e6-4856-94a8-d526f1afeac8" width="500">
   </a>
 </p>
 
