@@ -57,8 +57,5 @@ cp lampada_matriz.uf2 /media/$USER/RPI-RP2/
 ## 🧑‍💻 Desenvolvimento
 👤 **Carlos André** - Desenvolvedor principal
 
-## 📄 Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 🚀 _Desenvolvido no contexto do programa EmbarcaTech._
 
